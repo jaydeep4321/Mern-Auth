@@ -8,12 +8,12 @@ Repository for complete Authentication Implementation using MERN stack.
 
 # Server .env
 
-````
+```
 MONGODB_URL="Enter mongodb connection string here"
 JWT_SECRET="Jwt secret here"
 NODE_ENV="development"
 EMAIL="Sender email here"
 REFRESH_TOKEN="you have to generete this from google developer console"
 CLIENT_SECRET="you have to generete this from google developer console"
-CLIENT_ID="you have to generete this from google developer console"```
-````
+CLIENT_ID="you have to generete this from google developer console"
+```
